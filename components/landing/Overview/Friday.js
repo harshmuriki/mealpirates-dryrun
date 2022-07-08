@@ -1,5 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image'
+
 export default function Monday() {
   return (
     <div className="py-0 flex justify-center bg-white">
